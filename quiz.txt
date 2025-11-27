@@ -1,0 +1,26 @@
+1#O que é um algoritmo?#Uma sequência lógica de passos#Um erro de programação#Um tipo de variável#Um símbolo matemático#a
+1#Qual o tipo de dado usado para valores verdadeiros?#booleano#inteiro#caractere#real#a
+1#O que um fluxograma representa?#O passo a passo de um algoritmo#Um cálculo matemático#Um gráfico#Um programa completo#a
+1#O que é uma variável?#Um operador#Um valor fixo#Espaço de memória para armazenar dado#Um comando para imprimir na tela#c
+1#O que define um caractere?#int#char#boolean#double#b
+2#O que é uma variável?#Espaço para armazenar valores#Um comando de repetição#Um operador lógico#Um método de saída#a
+2#O que significa inicializar uma variável?#Atribuir um valor inicial#Criar um loop#Apagar um dado#Comparar valores#a
+2#Qual o tipo adequado para número com ponto flutuante?#int#char#float/double#boolean#c
+2#Qual o tipo adequado para um caractere?#int#char#boolean#string#b
+2#Qual o tipo adequado para definir verdadeiro ou falso?#boolean#char#int#double#a
+3#O que o operador lógico && significa?#E lógico#Ou lógico#Negação#Atribuição#a
+3#O que é vetor?#Uma lista de elementos#Um único valor#Um tipo lógico#Uma função#a
+3#Qual comando interrompe um loop?#break#continue#stop#end#a
+3#Como fazer um comentário de múltiplas linhas?#/* comentario */#// comentario#-- comentario#<!-- comentario -->#a
+3#Para que serve o System.out.printf ?#Formatar saída no console#Ler dados#Definir variável#Calcular expressões#a
+3#Qual a capacidade de bytes de char/String?#1 byte/2 bytes#4 bytes/8 bytes#2 bytes/varia conforme a string#Nenhuma#c
+3#Para que serve uma função?#Reutilizar blocos de código#Criar laços#Desenhar fluxogramas#Criar variáveis#a
+4#Qual operador tem maior precedência?#!#||#&&#+#a
+4#Qual expressão é verdadeira?#(true && false) || true#false && true#false && false#false || false#a
+4#Qual a função do operador lógico 'E' (&&)?#Verdadeiro se pelo menos uma expressão é verdadeira#Falso se ambas forem falsas#Verdadeiro somente se ambas forem verdadeiras#Não altera nada#c
+4#Qual a função do operador 'OU' (||)?#Verdadeiro se pelo menos uma expressão for verdadeira#Verdadeiro se todas forem verdadeiras#Falso se alguma for falsa#Verdadeiro se nenhuma for verdadeira#a
+4#Qual a função do operador 'NÃO' (!)?#Retorna valor original#Nega o valor lógico#Soma valores#Multiplica valores#b
+5#Qual o resultado de !(false || true) && true?#false#true#null#0#a
+5#Se x=2, y=4, qual resultado de x*2 < y && y/2==x?#true#false#0#nenhum#a
+5#Qual expressão é equivalente a !(A && B)?#!A || !B#A || B#A && !B#B#a
+5#Valor de (true || false) && (!false && true)?#true#false#null#0#a
